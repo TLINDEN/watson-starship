@@ -1,7 +1,7 @@
 # watson-starship
 
 A simple plugin for [Starship](https://github.com/starship/starship),
-which  shows the elapsed time of the current project.
+which  shows the elapsed time of the current [watson](https://github.com/jazzband/Watson) project.
 
 ## Setup
 
